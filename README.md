@@ -1,4 +1,4 @@
-# python_with_AI_Projects
+# Python_with_AI_Projects
 
 # 🦠 COVID-19 Dashboard
 
