@@ -63,3 +63,5 @@ Streamlit will automatically detect your requirements.txt and launch the app.
 Screenshots
 
 [covid-19 dashboard outputs.pdf](https://github.com/user-attachments/files/21685861/covid-19.dashboard.outputs.pdf)
+
+Streamlit link : https://pythonwithaiprojects-xqs238ry9wtudceidpfyxh.streamlit.app/
